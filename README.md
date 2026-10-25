@@ -1,5 +1,14 @@
-## Hi there 👋
+## Getting to know me (>‿◠)✌
+Hi there! I go by the name UntitledUser2 and I am currently a Student studying OCR A-Level Computer Science.
+I love programming in my free time to create projects and apps that help me and friends
 
+I would consider myself a Beginner/Intermediate Python Programmer with experience in IDE's such as Visual Studio.
+
+For my future plans im looking to study into Software and Game Development as since I was young I've always loved creating games for people to enjoy
+on websites such as Scratch!
+
+Any questions or just wanting to contact me find me below:
+@untitleduser2 - Discord
 <!--
 **UntitledUser2/UntitledUser2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
